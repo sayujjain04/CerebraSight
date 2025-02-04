@@ -1,0 +1,4 @@
+openai
+azure-openai
+requests
+beautifulsoup4
